@@ -1,6 +1,6 @@
 class Book
-  def intitialize(title)
-end
+  def initialize(title)
+  end
 
 end
 
